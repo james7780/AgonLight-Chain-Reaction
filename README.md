@@ -8,7 +8,7 @@
  It may only run using Agon Light BBCBASIC24.
 
 <picture>
-    <img alt="Screenshot of Agon Chain Reaction" src="CR_screenshot.png">
+    <img alt="Screenshot of Agon Chain Reaction" src="CR screenshot.png">
 </picture>
 
 ## Features:
